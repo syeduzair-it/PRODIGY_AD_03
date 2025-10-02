@@ -19,8 +19,8 @@ UzStopWatch is a basic stopwatch app that lets users track time with minutes, se
 - Material Design buttons  
 
 ## Screenshots
-![Stopwatch Running](screenshots/stopwatch_running.png)  
-![Stopwatch Reset](screenshots/stopwatch_reset.png)  
+![Stopwatch Running](screenshots/screen3_1.jpg)  
+![Stopwatch Reset](screenshots/screen3_2.jpg)  
 
 ## How to Run
 1. Clone the repo:
