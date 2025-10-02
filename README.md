@@ -25,5 +25,5 @@ UzStopWatch is a basic stopwatch app that lets users track time with minutes, se
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your_username>/PRODIGY_AD_03.git
+   git clone https://github.com/syeduzair-it/PRODIGY_AD_03.git
    cd PRODIGY_AD_03
