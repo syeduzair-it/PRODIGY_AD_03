@@ -1,6 +1,6 @@
 ## 📌 3. UzStopWatch (`PRODIGY_AD_03`)
 
-```markdown
+
 # UzStopWatch
 **PRODIGY_AD_03**
 
